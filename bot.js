@@ -277,4 +277,3 @@ function play(guild, song) {//@〖D̷o̷̶Ḿa̶ |̷ B̷O̷Y̷〗#1362  حقوق
 
 
  
-client.login('NTk0MDA5NzY0MTQ5ODU0MjI3.XSSJbQ.ezHsbs_XzdPQpmXy2DKtMnBxThc');
